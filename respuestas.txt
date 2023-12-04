@@ -1,0 +1,6 @@
+1 30000 30000 239997
+2 293001 6996
+3 0.010380 0.015222 0.019030
+4 10
+4b. Adicionalmente, eliminaría las columnas numéricas que tienen correlación muy baja con el target, puesto que no serán útiles en la predicción al tratarse de un conjunto de datos con tantas columnas. También eliminaría las columnas date_of_last_rech (por encontrarse en la data de forma más legible para modelos predictivos) y mobile_number (irrelevante).
+
